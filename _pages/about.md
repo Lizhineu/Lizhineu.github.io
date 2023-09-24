@@ -12,32 +12,32 @@ redirect_from:
 
 研究方向
 ======
-光机电一体化
-智能驱动系统的建模与控制
-液态镜头与机器视觉
-智能材料驱动器与软体机器人
+光机电一体化<br>
+智能驱动系统的建模与控制<br>
+液态镜头与机器视觉<br>
+智能材料驱动器与软体机器人<br>
 
 工作简历
 ======
-2019.6至今 东北大学（中国）流程工业综合自动化国家重点实验室教授
-2017.4-2019.5 马格德堡大学（德国）洪堡学者
-2016.4-2017.3 约克大学(加拿大)博士后研究员
+2019.6至今 东北大学（中国）流程工业综合自动化国家重点实验室教授<br>
+2017.4-2019.5 马格德堡大学（德国）洪堡学者<br>
+2016.4-2017.3 约克大学(加拿大)博士后研究员<br>
 
 教育经历
 ======
-肯考迪亚大学（加拿大）机械工程
-东北大学    模式识别与智能系统
+肯考迪亚大学（加拿大）机械工程<br>
+东北大学    模式识别与智能系统<br>
 
 学术兼职
 ======
-2020.10至今 IEEE Transactions on Industrial Electronics 编委
-2018.6至今  Computer Simulation in Application 编委
-学术期刊审稿人：
-•    IEEE Transactions on Industrial Electronics
-•    IEEE Transactions on Mechatronics
-•    IEEE Transactions on Industrial Informatics
-•    IEEE Transactions on Cybernetics
-•    IEEE Transactions on Control Systems Technology
-•    IEEE Transactions on Magnetics
-•    IEEE Transactions on Automation Science and Engineering
-•    IEEE Transactions on Neural Networks and Learning Systems
+2020.10至今 IEEE Transactions on Industrial Electronics 编委<br>
+2018.6至今  Computer Simulation in Application 编委<br>
+学术期刊审稿人：<br>
+•    IEEE Transactions on Industrial Electronics<br>
+•    IEEE Transactions on Mechatronics<br>
+•    IEEE Transactions on Industrial Informatics<br>
+•    IEEE Transactions on Cybernetics<br>
+•    IEEE Transactions on Control Systems Technology<br>
+•    IEEE Transactions on Magnetics<br>
+•    IEEE Transactions on Automation Science and Engineering<br>
+•    IEEE Transactions on Neural Networks and Learning Systems<br>
