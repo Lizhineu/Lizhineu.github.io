@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "课题组合照"
+excerpt: "拍摄于2023年夏<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
