@@ -2,9 +2,7 @@
 title: "课题组合照"
 excerpt: "拍摄于2023年夏<br/><img src='/images/500x300.png'>"
 collection: portfolio
----
----
-title: " "
+
 excerpt: "2023年毕业季拍摄于实验室 <br/><img src='/images/2023.png'>"
 collection: portfolio
 ---
