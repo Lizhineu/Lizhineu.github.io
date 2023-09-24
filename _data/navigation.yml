@@ -3,11 +3,11 @@ main:
   - title: "发表论文"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - #title: "Talks"
+    #url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - #title: "Teaching"
+    #url: /teaching/    
     
   - title: "课题组"
     url: /portfolio/
@@ -15,8 +15,8 @@ main:
   - #title: "招生信息"
     #url: /year-archive/
     
-  - #title: "CV"
-    #url: /cv/
+  - title: "CV"
+    url: /cv/
     
   - title: "招生信息"
     url: /markdown/
