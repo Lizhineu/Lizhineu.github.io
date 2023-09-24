@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "李智 主页"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhi Li"
 description              : &description "personal description"
 url                      : https://Nelson-117.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Nelson-117/Nelson-117.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "李智 Zhi Li"
   avatar           : "profile.png"
-  bio              : "教授|博士生导师|东北大学流程工业综合自动化全国重点实验室"
+  bio              : " 教授 | 博士生导师 | 东北大学流程工业综合自动化全国重点实验室"
   location         : "辽宁省沈阳市和平区文化路三号巷11号"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
