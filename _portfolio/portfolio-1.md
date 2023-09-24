@@ -1,6 +1,6 @@
 ---
 title: "课题组合照"
-excerpt: "拍摄于2023年夏<br/><img src='/images/500x300.png'><br/><img src='/images/2023.png'><br/>"
+excerpt: "拍摄于2023年夏<br/><img src='/images/500x300.png'>"
 
 collection: portfolio
 
