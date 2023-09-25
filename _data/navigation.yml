@@ -8,18 +8,15 @@ main:
 
   - #title: "Teaching"
     #url: /teaching/    
-    
-
 
   - title: "课题组"
     url: /cv/ 
     
-      - #title: "课题组"
+  - #title: "课题组"
     #url: /portfolio/
+
   - #title: "招生信息"
-    #url: /year-archive/
-    
- 
+    #url: /year-archive/ 
     
   - title: "招生信息"
     url: /markdown/
