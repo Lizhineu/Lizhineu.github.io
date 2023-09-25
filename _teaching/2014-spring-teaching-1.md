@@ -10,16 +10,15 @@ location: "City, Country"
 
 课题组研究成果
 ======
-<img src='/images/500x300.png'>
-<br>
-<br>
-<br>
-
 爬壁机器人
 ------
 <img src='/images/2023.png'>
+
 条干度检测
 ------
+<img src='/images/500x300.png'>
+<br>
+
 
 纺丝检测
 ------
