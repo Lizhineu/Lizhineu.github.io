@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "课题组合照"
+title: ""
 collection: portfolio
 author_profile: true
 ---
@@ -12,3 +12,5 @@ author_profile: true
 *2023/8 课题组徐泓智博士获得第六届智能机器人与控制工程国际会议“Best Paper”奖<br>
 *2023/7 课题组李子康硕士获得东北大学最佳毕业硕士论文奖。
 
+课题组最新动态
+======
