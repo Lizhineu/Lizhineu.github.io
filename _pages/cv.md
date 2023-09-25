@@ -34,6 +34,7 @@ redirect_from:
 课题组合照
 ======
 拍摄于2023年夏
-<img src='/images/500x300.png'><br>
+<img src='/images/500x300.png'>
+<br>
 <img src='/images/2023.png'>
 
