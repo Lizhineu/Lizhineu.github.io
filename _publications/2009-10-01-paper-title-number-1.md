@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: ""
 collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Z. Li,A Direct Inverse Model for Hysteresis Compensation.IEEE Transactions on Industrial Electronics,68(5):4173-4181<br>
