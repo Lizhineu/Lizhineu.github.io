@@ -9,49 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+课题组博士生
 ======
-<img src='/images/500x300.png'>
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* 王双庆(2020-)
+* 徐泓智(2022-)
+* 段增鸿(2022-)
+* 张旭(2023-)
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+课题组硕士生
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+  * 于辰(2023-)<br>
+  * 聂佳伟(2023-)<br>
+  * 蔡志玮(2023-)<br>
+  * 柳民民(2022-)<br>
+  * 董源赫(2022-)<br>
+  * 李卓璐(2022-)<br>
+  * 陈国强(2021-)<br>
+  * 郑广智(2021-)<br>
+  * 李子康(2020-2023)毕业去向：澳门大学<br>
+  * 彭添强(2020-2023)毕业去向：渤海银行<br>
+  * 阮航(2020-2023)，毕业去向：复旦大学<br>
+
+课题组合照
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+拍摄于2023年夏
+<img src='/images/500x300.png'>
+<img src='/images/2023.png'>
+
