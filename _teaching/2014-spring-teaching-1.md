@@ -10,18 +10,10 @@ location: "City, Country"
 
 课题组研究成果
 ======
-爬壁机器人
-------
-<img src='/images/2023.png'>
-
-条干度检测
-------
-<img src='/images/500x300.png'>
+-爬壁机器人-<br>
+<img src='/images/2023.png'><br>
+-条干度检测-<br>
+<img src='/images/500x300.png'><br>
 <br>
-
-
-纺丝检测
-------
-
-DEA平台
-------
+-纺丝检测-<br>
+<img src='/images/500x300.png'>
