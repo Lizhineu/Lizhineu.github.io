@@ -6,14 +6,14 @@ main:
   - #title: "Talks"
     #url: /talks/    
 
-  - #title: "Teaching"
-    #url: /teaching/    
+  
 
   - title: "课题组"
     url: /cv/ 
-    
-  - #title: "课题组"
-    #url: /portfolio/
+     - #title: "Teaching"
+    #url: /teaching/   
+  - title: "课题组动态"
+    url: /portfolio/
 
   - #title: "招生信息"
     #url: /year-archive/ 
