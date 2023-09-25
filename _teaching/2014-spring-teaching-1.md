@@ -11,9 +11,9 @@ location: "City, Country"
 课题组研究成果
 ======
 -爬壁机器人-<br>
-<img src='/images/2023.png'><br>
+<img src='/images/climbing.png'><br>
 -条干度检测-<br>
-<img src='/images/500x300.png'><br>
+<img src='/images/tiaogan.png'><br>
 <br>
--纺丝检测-<br>
-<img src='/images/500x300.png'>
+-纺丝网格度检测-<br>
+<img src='/images/wangge.png'>
