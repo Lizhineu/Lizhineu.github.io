@@ -10,11 +10,13 @@ main:
   - title: "课题组"
     url: /cv/ 
 
-  - #title: "Teaching"
-    #url: /teaching/  
+ 
+
+  - #title: "学术动态"
+    #url: /portfolio/
 
   - title: "学术动态"
-    url: /portfolio/
+    url: /teaching/ 
 
   - #title: "招生信息"
     #url: /year-archive/ 
